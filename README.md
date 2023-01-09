@@ -14,5 +14,5 @@ Mijn leerkracht zegt wel eens:
 :baby_chick:
 
 ## Visual Studio Code
-Visual Studio Code is toch **echt** wel een editor met veel mogelijkhe
-den!
+Visual Studio Code is toch **echt** wel een editor met veel mogelijkheden!
+Dit is een laatste regel voor dit MD-bestand.
